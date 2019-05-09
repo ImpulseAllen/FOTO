@@ -1,0 +1,117 @@
+/* this style will apply to the whole body...
+
+
+@media only screen and (min-width: 290px){
+    .bgimg-1{
+        width: 290px;
+        height: 215px;
+        float: left;
+        color: white;
+        background-color: red;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 75px;
+        text-align: center;
+    }
+    .bgimg-2{
+        width: 290px;
+        height: 215px;
+        float: left;
+        color: white;
+        background-color: red;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 75px;
+        text-align: center;
+    }
+    .bgimg-3{
+        width: 290px;
+        height: 215px;
+        float: left;
+        color: white;
+        background-color: red;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 75px;
+        text-align: center;
+    }
+    /* .colorscheme {
+        color: #47167F;
+        color: #B779FF;
+        color: #8E2DFF;
+        color: #5C3D7F;
+        color: #36827E; 
+        color: #4EBEE8; 
+        color: #589BFF; 
+        color: #9BA1E8; 
+        color: #3F8280; 
+        color: #8EE8E6; 
+        color: #31FFFD; 
+        color: #30E8E8; 
+        color: #8FFEFF; 
+        color: #343A3D;
+        color: #3B4145;
+        color: #292E30;
+        color: #4C5459;
+        color: #A80000;
+        color: #9FB8AD;
+        color: #CED0CE;
+        color: #E6E8E6;
+        color: #9B1D20;
+        color: #494947;
+    } */
+}
+@media only screen and (min-width: 1200px){
+    .bgimg-1{
+        width: 100%;
+        height: 215px;
+        float: left;
+        color: white;
+        background-color: red;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 75px;
+        text-align: center;
+    }
+    .bgimg-2{
+        width: 100%;
+        height: 215px;
+        float: left;
+        color: white;
+        background-color: red;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 75px;
+        text-align: center;
+    }
+    .bgimg-3{
+        width: 100%;
+        height: 215px;
+        float: left;
+        color: white;
+        background-color: red;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 75px;
+        text-align: center;
+    }
+    .colorscheme {
+        color: #47167F;
+        color: #B779FF;
+        color: #8E2DFF;
+        color: #5C3D7F;
+        color: #36827E; 
+        color: #4EBEE8; 
+        color: #589BFF; 
+        color: #9BA1E8; 
+        color: #3F8280; 
+        color: #8EE8E6; 
+        color: #31FFFD; 
+        color: #30E8E8; 
+        color: #8FFEFF; 
+        color: #343A3D;
+        color: #3B4145;
+        color: #292E30;
+        color: #4C5459;
+        color: #A80000;
+        color: #9FB8AD;
+        color: #CED0CE;
+        color: #E6E8E6;
+        color: #9B1D20;
+        color: #494947;
+    }
+} */
